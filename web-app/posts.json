@@ -1,0 +1,275 @@
+[
+{
+  "Title": "Contentful Achieves AWS Consumer Goods Competency Recognition",
+  "Tag": "Product Announcement",
+  "Source": "Contentful",
+  "Link": "https://www.contentful.com/blog/aws-consumer-goods-competency/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "Google Cloud Announces Veo and Imagen 3 for Video and Image Generation on Vertex AI",
+  "Tag": "Product Announcement",
+  "Source": "Technology",
+  "Link": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "Exploring 'Surreal Elderhood' with OpenAI's Text-to-Video Model Sora",
+  "Tag": "AI and the Web",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Google Expands Access to Its Video Generator",
+  "Tag": "AI and the Web",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/03/googles-video-generator-comes-to-more-customers/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Integrating Rust and TypeScript: A Comprehensive Guide",
+  "Tag": "Thought Leadership",
+  "Source": "Contentful",
+  "Link": "https://www.contentful.com/blog/rust-typescript-guide/",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "Astro vs. Next.js: Comparing Features, Performance, and Use Cases",
+  "Tag": "Analysis",
+  "Source": "Contentful",
+  "Link": "https://www.contentful.com/blog/astro-next-js-compared/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "AI Enhancing the Value of Developer Skills",
+  "Tag": "Thought Leadership",
+  "Source": "Builder",
+  "Link": "https://www.builder.io/blog/ai-dev-skill",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Building a Scalable Recipe Website: Strategies and Tips",
+  "Tag": "Analysis",
+  "Source": "Sanity",
+  "Link": "https://www.sanity.io/blog/how-to-make-a-recipe-site-that-scales-well",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "Candyspace's Approach to Creating Widely Loved Digital Products",
+  "Tag": "Case Study",
+  "Source": "Storyblok",
+  "Link": "https://www.storyblok.com/mp/candyspace-crafting-digital-products-loved-by-everyone",
+  "Date": "2024-December-01"
+},
+{
+  "Title": "Nuxt vs. Next.js: Comparing Popular JavaScript Frameworks",
+  "Tag": "Analysis",
+  "Source": "Contentful",
+  "Link": "https://www.contentful.com/blog/nuxt-next-js-compared/",
+  "Date": "2024-November-29"
+},
+{
+  "Title": "Common Misconceptions Promoted by AI Vendors",
+  "Tag": "Analysis",
+  "Source": "Builder",
+  "Link": "https://www.builder.io/blog/ai-lie",
+  "Date": "2024-November-27"
+},
+{
+  "Title": "Optimizely: The Importance of Personalization in Customer Experience Management",
+  "Tag": "Thought Leadership",
+  "Source": "Optimizely",
+  "Link": "https://www.optimizely.com/insights/blog/customer-experience-management/",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "Kentico's Featured Website for November 2024",
+  "Tag": "Case Study",
+  "Source": "Kentico",
+  "Link": "https://www.kentico.com/discover/blog/november-2024-site-of-the-month",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "Guidelines for Enhancing Content Accessibility: Importance and Best Practices",
+  "Tag": "Thought Leadership",
+  "Source": "KontentAI",
+  "Link": "https://kontent.ai/blog/content-accessibility-guide/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "MACH Alliance: Leveraging MACH Architecture for Black Friday Traffic Management",
+  "Tag": "Thought Leadership",
+  "Source": "MACH",
+  "Link": "https://machalliance.org/insights-hub/how-mach-architecture-helps-you-prepare-for-the-black-friday-traffic",
+  "Date": "2024-November-29"
+},
+{
+  "Title": "Optimizely: Top CMS Options for SEO in 2024",
+  "Tag": "Thought Leadership",
+  "Source": "Optimizely",
+  "Link": "https://www.optimizely.com/insights/blog/best-cms-for-seo/",
+  "Date": "2024-November-29"
+},
+{
+  "Title": "Optimizely: Key Marketing Red Flags Affecting Content Strategy",
+  "Tag": "Thought Leadership",
+  "Source": "Optimizely",
+  "Link": "https://www.optimizely.com/insights/blog/marketing-red-flags/",
+  "Date": "2024-November-28"
+},
+{
+  "Title": "Google Invests in Cake: A Managed Open-Source AI Infrastructure Platform",
+  "Tag": "AI News",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "AWS: Using Automated Reasoning to Reduce LLM Hallucinations",
+  "Tag": "Thought Leadership",
+  "Source": "Technology",
+  "Link": "https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "Pinecone Integrates AI Inferencing Into Vector Database",
+  "Tag": "Product Announcement",
+  "Source": "Technology",
+  "Link": "https://blocksandfiles.com/2024/12/02/pinecone-integrates-ai-inferencing-with-its-vector-database/",
+  "Date": "2024-December-04"
+},
+{
+  "Title": "Bluesky: Decentralized Social Media App Launches Private Beta on App Store",
+  "Tag": "Product Announcement",
+  "Source": "CMSWire",
+  "Link": "https://www.cmswire.com/digital-experience/bluesky-the-decentralized-twitter-alternative-now-available-as-private-beta-on-apple-app-store/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "AI's Impact on Martech Vendors and Users: An Imminent Disruption",
+  "Tag": "Analysis",
+  "Source": "Martech",
+  "Link": "https://martech.org/ai-is-poised-to-disrupt-the-world-of-martech-vendors-and-users/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Name Crash Issue in ChatGPT: OpenAI Investigates Digital Privacy Tools",
+  "Tag": "AI News",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "AWS SageMaker Introduces AI Enhancements and Omnichannel Support",
+  "Tag": "Product Announcement",
+  "Source": "CMSWire",
+  "Link": "https://www.cmswire.com/contact-center/amazon-connects-new-era-ai-omnichannel-support-and-enhanced-security/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "Clarifai Launches Vendor-Agnostic Orchestration Capabilities",
+  "Tag": "Product Announcement",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Amazon Introduces Nova: A New Family of Multimodal AI Models",
+  "Tag": "Product Announcement",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "AWS Launches New Service to Combat AI Hallucinations",
+  "Tag": "Product Announcement",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/03/aws-new-service-tackles-ai-hallucinations/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "AWS re:Invent 2024: Previewing Amazon’s Biggest Event of the Year",
+  "Tag": "Thought Leadership",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/03/aws-reinvent-2024-what-to-expect-and-how-to-watch-amazons-biggest-event-of-the-year/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Amazon Launches Amazon Nova: New Frontier in Intelligence with Competitive Pricing",
+  "Tag": "Product Announcement",
+  "Source": "Technology",
+  "Link": "https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Amazon Unveils Supercomputer and AI-Powered Server with Homegrown Chips",
+  "Tag": "Product Announcement",
+  "Source": "Technology",
+  "Link": "https://www.wsj.com/articles/amazon-announces-supercomputer-new-server-powered-by-homegrown-ai-chips-18c196fc",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "AWS: Introducing Amazon Aurora DSQL",
+  "Tag": "Product Announcement",
+  "Source": "Technology",
+  "Link": "https://aws.amazon.com/rds/aurora/dsql/",
+  "Date": "2024-December-03"
+},
+{
+  "Title": "Amazon Connect Introduces AI Enhancements and Omnichannel Support",
+  "Tag": "Product Announcement",
+  "Source": "CMSWire",
+  "Link": "https://www.cmswire.com/contact-center/amazon-connects-new-era-ai-omnichannel-support-and-enhanced-security/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "Analyzing AI's Potential Dominance in Call Centers",
+  "Tag": "AI News",
+  "Source": "CMSWire",
+  "Link": "https://www.cmswire.com/contact-center/is-this-the-year-ai-dominates-the-call-center/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "GenAI Needs Consumer Trust for Search Marketing Transformation",
+  "Tag": "Thought Leadership",
+  "Source": "Martech",
+  "Link": "https://martech.org/gen-ai-must-win-consumer-trust-if-it-is-going-to-transform-search-marketing/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "AWS re:Invent 2024: Live Updates and Key Highlights",
+  "Tag": "Analysis",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/storyline/aws-reinvent-2024-live-updates-from-amazons-biggest-event/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "World Labs AI: Generating 3D Scenes from a Single Photo",
+  "Tag": "Product Announcement",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "The Browser Company Previews Dia: A New AI-Powered Browser",
+  "Tag": "Product Announcement",
+  "Source": "Techcrunch",
+  "Link": "https://techcrunch.com/2024/12/02/the-browser-company-teases-dia-its-new-ai-browser/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "Google Research: Enhancing Time-Series Analysis with Multimodal Models",
+  "Tag": "Thought Leadership",
+  "Source": "Technology",
+  "Link": "https://research.google/blog/unlocking-the-power-of-time-series-data-with-multimodal-models/",
+  "Date": "2024-December-02"
+},
+{
+  "Title": "Flow: An Engine for Building Dynamic AI Agents",
+  "Tag": "Product Announcement",
+  "Source": "Technology",
+  "Link": "https://github.com/lmnr-ai/flow",
+  "Date": "2024-December-02"
+}
+]

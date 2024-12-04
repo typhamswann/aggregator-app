@@ -1,0 +1,86 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #fff; /* White background */
+  }
+  
+  header {
+    background: #fff; /* White background for header */
+    padding: 1.5rem 6rem;
+    text-align: left; /* Left-align title and subtitle */
+  }
+  
+  header h1 {
+    color: #492059;
+    font-size: 2.5rem; /* Bigger font for the title */
+    margin: 0;
+  }
+  
+  header p {
+    color: #492059;
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem; /* Slightly smaller for subtitle */
+  }
+  
+  .banner {
+    background: #4F4268; /* Purple banner #4F4268 */
+    height: 5rem; /* Double the original thickness */
+    width: 100%;
+  }
+  
+  main {
+    max-width: 60rem;
+    margin: 0.5rem auto;
+    padding: 0rem;
+    background: #fff;
+  }
+
+  article {
+    display: flex; /* Make the article container a flexbox */
+    align-items: flex-start; /* Align items at the top */
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+    cursor: pointer; /* Cursor pointer to indicate clickable area */
+  }
+  
+  article img {
+    width: 7.5rem; /* Set a fixed size for square images */
+    height: 7.5rem;
+    margin-right: 1.8rem; /* Space between image and text */
+    border-radius: 4px; /* Optional: add rounded corners */
+    object-fit: cover; /* Ensure the image fits the container */
+  }
+  
+  .article-content {
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+  }
+  
+  .article-content h2 {
+    color: black;
+    font-size: 1.3rem;
+    margin: 0 0 0.5rem 0; /* Align properly */
+  }
+  
+  .article-content p {
+    margin: 0.5rem 0;
+  }
+  
+  .tag {
+    color: #492059; /* #492059 for tags */
+    font-weight: normal; /* Tags not bolded */
+    font-size:0.9rem;
+  }
+  
+  .author-date {
+    font-size: 0.9rem; /* Smaller font for author and date */
+  }
+  
+  /* .author-date strong {
+    text-decoration: underline; 
+  }
+   */
+  
